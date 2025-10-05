@@ -6,6 +6,6 @@ How to use:
  Open index.html in a browser (or serve with a static server).
 
 Files:
-index.html : Main app (no build required)
+index.html : Main app
 spoonacular_config.js : Put your API key here
 README.md : This file
